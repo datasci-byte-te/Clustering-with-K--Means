@@ -20,7 +20,7 @@ To segment customers into distinct clusters based on their age, annual income, a
 ## 📊 Steps Performed
 
 1. Data Loading & Exploration
-2. Feature Selection** (`Age`, `Annual Income`, `Spending Score`)
+2. Feature Selection (`Age`, `Annual Income`, `Spending Score`)
 3. Data Standardization using `StandardScaler`
 4. Finding Optimal K using the **Elbow Method**
 5. Clustering using `KMeans`
